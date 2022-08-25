@@ -1,10 +1,14 @@
-[
+{
+  "notes": [
     {
-        "title": "Test Note Title 1",
-        "text": "Test commit"
+      "title": "Sample title 1",
+      "text": "Sample note 1",
+      "id": "8ef788e0-2489-11ed-8de0-db41cf778dca"
     },
     {
-        "title": "Test Note Title 2",
-        "text": "Test text 2"
+      "title": "Sample title 2",
+      "text": "Sample note 2",
+      "id": "9ae790a0-2489-11ed-8de0-db41cf778dca"
     }
-]
+  ]
+}
